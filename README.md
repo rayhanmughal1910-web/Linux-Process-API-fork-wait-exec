@@ -69,7 +69,6 @@ int main() {
 
 
 
-
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 ```
 #include <stdio.h>
@@ -143,7 +142,6 @@ int main() {
 
 ##OUTPUT
 ![Alt text](<../imgage/Screenshot at 2026-03-14 05-57-04.png>)
-
 
 
 
